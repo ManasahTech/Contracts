@@ -1,0 +1,20 @@
+{
+    "name": "manasahtech/contracts",
+    "description": "The ManasahTech Contracts package.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Manasahtech\\Contracts\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RuyahTech, SLLC",
+            "email": "dev@ruyahtech.com"
+        }
+    ],
+    "require": {
+        "psr/container": "^2.0"
+    }
+}
