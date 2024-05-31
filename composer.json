@@ -11,10 +11,11 @@
     "authors": [
         {
             "name": "RuyahTech, SLLC",
-            "email": "dev@ruyahtech.com"
+            "email": "manasahtech@ruyahtech.com"
         }
     ],
     "require": {
+        "php": "^8.2",
         "psr/container": "^2.0"
     }
 }
